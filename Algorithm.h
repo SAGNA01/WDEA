@@ -6,6 +6,7 @@
 
 
 using std::string;
+boubou sagbna;
 
 class Algorithm
 {
