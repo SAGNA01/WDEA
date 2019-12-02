@@ -5,9 +5,6 @@
 #include"SetUpParams.h"
 
 
-using std::string;
-boubou sagbna;
-
 class Algorithm
 {
     public:
