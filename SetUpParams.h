@@ -5,7 +5,7 @@
 class SetUpParams
 {
     public:
-        SetUpParams();
+        SetUpParams(unsigned int runs, unsigned int steps, unsigned int pop_size, unsigned int sol_size);
         ~SetUpParams();
         const unsigned int   independent_runs() const;
 		const unsigned int   nb_evolution_steps() const;
