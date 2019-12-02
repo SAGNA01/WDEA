@@ -4,7 +4,9 @@
 #include"Solution.h"
 #include"SetUpParams.h"
 
-using namespace std;
+
+using std::string;
+
 class Algorithm
 {
     public:
